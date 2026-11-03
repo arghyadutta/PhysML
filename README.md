@@ -1,4 +1,4 @@
-# PHY-603: *AI in Physical Systems*
+# PHY-603: *Machine Learning in Physical Systems*
 
 ## References:
 
